@@ -7,8 +7,10 @@ The main contact of FREDC:
 The baseline models we use:
 Proto and Bert-pair:
 https://github.com/thunlp/fewrel
+
 BERTTEM:
 https://github.com/plkmo/BERT-Relation-Extraction
+
 HCRP:
 https://github.com/hanjiale/hcrp
 
