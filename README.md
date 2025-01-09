@@ -4,7 +4,9 @@ FREDE is a specialized dataset for few-shot RE based on Chinese text. FREC integ
 
 The main contact of FREDC:
 ![image](https://github.com/user-attachments/assets/0b244734-235b-4750-8069-8ef6b7a315c1)
+
 The baseline models we use:
+
 Proto and Bert-pair:
 https://github.com/thunlp/fewrel
 
